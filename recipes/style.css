@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(82, 79, 79);
+}
+.h1,
+.list {
+    color: rgb(185, 56, 185);
+}
+h1 {
+    font-size: 46px;
+    color: rgb(185, 56, 185);
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.list {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
